@@ -15,7 +15,8 @@ Install commands are as follows.
 pip install tensorflow==1.5.0
 pip scipy==1.2.0
 ---------------------------------------------
-
+- The file I uploaded is big, so It has a great chance to have an error when accessing it.
+  So, if you get this problem, please try again.
 - I did my best, but my script is not good actually I think.
 - So if you find the wrong part, and if you get a chance, Comment please.
 
