@@ -3,17 +3,26 @@ Hi everyone :)
 Welcome to my Github homepage.
 
 -------------------------------------------
-Please Install 
+1. Please Install 
 
-Tensorflow==1.5
-scipy==1.2.0
+  -Tensorflow==1.5
+  -scipy==1.2.0
 
-Before running the python file.
+   Before running the python file.
 
-Install commands are as follows.
+   Install commands are as follows.
 
-pip install tensorflow==1.5.0
-pip scipy==1.2.0
+   pip install tensorflow==1.5.0
+   pip scipy==1.2.0
+   
+ 2. Please Install 
+ 
+   -rotated mnists digits 
+    
+    Before running the python file.
+    You can download it from site below.
+    
+    https://sites.google.com/a/lisa.iro.umontreal.ca/public_static_twiki/variations-on-the-mnist-digits
 ---------------------------------------------
 
 - The file I uploaded is big, so It has a great chance to have an error when accessing it.
